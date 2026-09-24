@@ -1,2 +1,7 @@
 hello
 hello-dbg
+program
+*.o
+*.tmp
+*.log
+*~
