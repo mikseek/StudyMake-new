@@ -23,3 +23,4 @@ $(RELEASE_EXEC): hello.cpp
 clean:
 	rm -f $(RELEASE_EXEC) $(DEBUG_EXEC)
 
+# SRC variable added 
