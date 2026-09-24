@@ -1,2 +1,6 @@
-!Kazino-Royal.cpp
-Kazino-Royal*
+Kazino-Royal
+*.o
+*.log
+*.tmp
+.temp
+*~
